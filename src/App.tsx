@@ -160,9 +160,9 @@ export default function App() {
                   <div className="w-12 h-12 rounded-2xl bg-white/5 flex items-center justify-center border border-white/10">
                     <Mail className="w-6 h-6 text-indigo-400" />
                   </div>
-                  <span>manas@example.com</span>
+                  <span>manaschowdhury124.com</span>
                 </a>
-                <a href="https://wa.me/910000000000" className="flex items-center gap-4 text-lg hover:text-indigo-400 transition-colors">
+                <a href="https://wa.me/+919635246194" className="flex items-center gap-4 text-lg hover:text-indigo-400 transition-colors">
                   <div className="w-12 h-12 rounded-2xl bg-white/5 flex items-center justify-center border border-white/10">
                     <MessageCircle className="w-6 h-6 text-indigo-400" />
                   </div>
